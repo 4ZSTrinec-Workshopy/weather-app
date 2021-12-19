@@ -42,6 +42,7 @@ class App extends Component {
 
         return (
             <div className="App">
+                <img class="bg" src="https://images8.alphacoders.com/679/thumb-1920-679478.jpg" />
                 <input className="locationInput" type="text" placeholder="Location..." onChange={e => this.setState({ query: e.target.value }) } value={this.state.query} onKeyPress={this.handleWeatherChange}/>
                 <div className="container2">
                     <div className="location">{this.state.weather.name}, {this.state.weather.sys.country}</div>

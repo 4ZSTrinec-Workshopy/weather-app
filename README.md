@@ -8,3 +8,5 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
 npm install -g react
 ```
+
+[Otevřít webovou aplikaci](https://4zstrinec-workshopy.github.io/weather-app/)

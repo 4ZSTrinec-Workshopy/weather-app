@@ -1,6 +1,6 @@
 # weather-app
 
-https://api.openweathermap.org/data/2.5/weather?q=New%20York&units=metric&APPID=822fc8446f5adc72ac8c766a871329a8/
+https://api.openweathermap.org/data/2.5/weather?q=New%20York&units=metric&APPID=822fc8446f5adc72ac8c766a871329a8 \
 https://images8.alphacoders.com/679/thumb-1920-679478.jpg
 
 ```sh

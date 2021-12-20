@@ -18,7 +18,7 @@ class App extends Component {
 					this.setState({ weather: result });
 					this.setState({ image: "http://openweathermap.org/img/w/" + result.weather[0].icon + ".png" });
 				}
-			})size
+			})
 	}
 
 	handleWeatherChange = (e) => {
